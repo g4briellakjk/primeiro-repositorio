@@ -1,10 +1,8 @@
-(html)
-(h1) meu primeiro arquivo em html <h1>
-<html>
+# primeiro-repositório
 
-
+Para copiar o código em HTML:
 ...
-(html)
-h1 meu primeiro repositorio HTML  (h1)
-(html)
+<html>
+<h1>Meu primeiro arquivo em HTML</h1>
+</html>
 ...
